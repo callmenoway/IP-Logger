@@ -5,14 +5,17 @@
   <a href="https://github.com/callmenoway/IP-Logger/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.10-informational.svg">
+  <a href="https://www.html.com">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-  <a href="https://github.com/callmenoway/IP-Logger">
-    <img src="https://img.shields.io/badge/covarage-95%25-green">
+  <a href="https://paypal.me/davidecose">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
   <a href="https://github.com/callmenoway">
     <img src="https://img.shields.io/github/repo-size/callmenoway/IP-Logger">
+  </a>
+    <a href="https://instagram.com/davide.cose">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
