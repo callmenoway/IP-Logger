@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.discord.fr/PSS.png">
+  <img src="https://cdn.iplogger.org/domain.svg">
 </p>
 <p align="center">
   <a href="https://www.html.com">
